@@ -5,6 +5,6 @@ I'm a logical, creative and resourceful person. A complete dreamy philosopher. I
 
 ## Find me around the web 🌎: 
 
-- My personal website <a href="https://www.pablogarcia.dev">pablogarcia.dev</a>
-- If you want to hello me <a href="https://www.linkedin.com/in/prgarcia">LinkedIn</a>
-- On weekends I become a racing driver <a href="https://youtube.com/PabloGarciaRacing"> Youtube</a>
+- My personal website <a href="https://pablogarcia.dev/">pablogarcia.dev</a>
+- If you want to hello me <a href="https://www.linkedin.com/in/prgarcia">linkedIn</a>
+- On weekends I become a racing driver <a href="https://youtube.com/PabloGarciaRacing">youtube</a>
