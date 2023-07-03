@@ -1,6 +1,8 @@
-# Hi, I'm Pablo 👋
+# Hey, I'm Pablo 👋
 
-I'm a Jr. Full-Stack Web Developer graduate from Ironhack with experience building Front-End Web Apps with Angular and React. I code mainly with JavaScript, TypeScript, Angular and React.
+Front-end developer graduate from Ironhack.
+
+I code mainly with `TypeScript`, `JavaScript`, `Angular` and `Next.js`.
 
 ## Find me around the web 🌎
 
