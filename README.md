@@ -2,7 +2,7 @@
 
 Front-end developer graduate from Ironhack
 
-I code mainly with `TypeScript`, `JavaScript`, `React.js`, `Angular` and `Next.js`
+I code mainly with `TypeScript`, `JavaScript`, `Angular`, `React.js` and `Next.js`
 
 ## Find me around the web 🌎
 
